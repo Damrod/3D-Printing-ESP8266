@@ -1,1 +1,1 @@
-My version integrates a thermistor circuit such as the ones found on ramps (100uF capacitor, 4K7 pullup resistor, writes on arduino's A3 pin), and a diode connected to ES_TX and GPIO2. Also, it provides values for most components that had no available value, and changes the 3.3V regulator for an adjustable one with the same form factor. It's untested so far.
+My version integrates a thermistor circuit such as the ones found on ramps (100uF capacitor, 4K7 pullup resistor), and a diode connected to ES_TX and GPIO2. It's untested so far.
